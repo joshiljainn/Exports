@@ -131,6 +131,16 @@ const MEMBERS: Member[] = [
   { name: "Praprit Agro", specialties: ["Foxnuts", "Agro Commodities"], primaryCategory: "Agro" },
   { name: "PS Global", specialties: ["Dehydrated Fruits", "Dehydrated Vegetables"], primaryCategory: "Agro" },
   {
+    name: "PRATIK LIFE SCIENCES (Pratik Pawar)",
+    specialties: ["Pharma Machinery", "Machinery Spares", "Hubli, Karnataka"],
+    primaryCategory: "Machinery",
+  },
+  {
+    name: "TSA EXPORTS AND TRADES LLP (Ashik T Suresh)",
+    specialties: ["Spices", "Idukki", "Kattappana", "Kerala"],
+    primaryCategory: "Agro",
+  },
+  {
     name: "Paracasa",
     specialties: ["Modular Furniture", "Kitchen Cabinet", "Wardrobe"],
     primaryCategory: "Manufacturing",
@@ -192,7 +202,11 @@ const MEMBERS: Member[] = [
   { name: "Vingrow", specialties: ["Customised Apparel Manufacturing"], primaryCategory: "Textiles" },
   { name: "Volare Potentia", specialties: ["Agro Commodities"], primaryCategory: "Agro" },
   { name: "voltQ", specialties: ["Battery", "Electronics", "Solar"], primaryCategory: "Energy" },
-  { name: "Viahamdicraftdukan", specialties: ["Chilli", "Handicrafts", "Toys"], primaryCategory: "Handicraft" },
+  {
+    name: "ViaBharatDhukan",
+    specialties: ["Makhana", "Cardamom", "Coconut", "Chillis"],
+    primaryCategory: "Agro",
+  },
   { name: "Worldwide Logistics", specialties: ["Freight Forwarders"], primaryCategory: "Logistics" },
   { name: "Yash", specialties: ["Pashmina Wool", "Coffee"], primaryCategory: "Textiles" },
   { name: "Yul", specialties: ["Wollen Carpets", "Shawls"], primaryCategory: "Textiles" },
